@@ -1,4 +1,4 @@
-# ✈️ Airline Enterprise Analytics Dashboard
+\# ✈️ Airline Enterprise Analytics Dashboard
 
 ## 📌 Project Overview
 
@@ -24,6 +24,26 @@ Airline companies generate huge amounts of operational and customer data every d
 This dashboard converts raw airline data into meaningful business insights.
 
 ---
+---
+
+# Dashboard Preview
+
+## Executive Overview
+
+![Executive Dashboard](executive_dashboard.png)
+
+---
+
+## Operational Performance
+
+![Operational Dashboard](operational_performance.png)
+
+---
+
+## Revenue & Customer Insights
+
+![Revenue Dashboard](revenue_customer_insights.png)
+
 
 # Objectives
 
@@ -203,26 +223,6 @@ These categories should receive operational attention to improve customer experi
 - Performance Monitoring
 - Customer Analytics
 - Operational Analytics
-
----
-
-# Dashboard Preview
-
-## Executive Overview
-
-![Executive Dashboard](Images/Executive_Dashboard.png)
-
----
-
-## Operational Performance
-
-![Operational Dashboard](Images/Operational_Dashboard.png)
-
----
-
-## Revenue & Customer Insights
-
-![Revenue Dashboard](Images/Revenue_Dashboard.png)
 
 ---
 
