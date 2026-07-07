@@ -1,5 +1,3 @@
-\# ✈️ Airline Enterprise Analytics Dashboard
-
 ## 📌 Project Overview
 
 This project presents an end-to-end Airline Business Intelligence solution built using **Power BI**. The objective was to analyze airline operations, customer behavior, revenue generation, profitability, booking trends, aircraft utilization, and customer complaints to support executive-level decision making.
@@ -241,7 +239,3 @@ B.Sc. (Honours) Data Science & Artificial Intelligence
 Indian Institute of Technology Guwahati
 
 Aspiring Business Analyst | Data Analyst
-
-GitHub: *(Add your GitHub Profile)*
-
-LinkedIn: *(Add your LinkedIn Profile)*
